@@ -146,6 +146,7 @@ int main() {
         // フィルタリングされたオブジェクトのデータをCSVファイルに保存
         saveToCSV(OUTPUT_CSV_PATH, csvData);
 
+        // 画像の表示
         //cv::imshow(WINDOW_NAME, preprocessed);
         cv::imshow(WINDOW_NAME, filteredImage);
         cv::waitKey(0);
