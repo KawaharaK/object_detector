@@ -1,4 +1,4 @@
-# object_detectoin
+# object_detection
 
 ## 概要
 画像内の物体を2値化処理によって抽出し，その特徴量を出力する．
