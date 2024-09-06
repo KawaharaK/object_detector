@@ -1,0 +1,8 @@
+{
+  "minArea": 5000,
+  "maxArea": 1000000000,
+  "minCircularity": 0.5,
+  "pixelToLength": 0.840336,
+  "inputImagePath": "C:\\Users\\0645448\\Desktop\\image",
+  "outputCsvPath": "object_features.csv"
+}
